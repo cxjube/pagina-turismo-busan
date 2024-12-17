@@ -1,0 +1,128 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    margin-top: 88px;
+    margin-right: 80px;
+    margin-left: 80px;
+    color: #333333;
+}
+
+.headline {
+    font-size: 16px;
+    color: #E1624F;
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    border-radius: 28px;
+}
+
+
+figure{
+    box-sizing: border-box;
+    margin: 40px;
+    align-items: center;
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    text-align: center;
+}
+
+#imgprincipal {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 24px;
+}
+
+#descubra3destinos {
+    margin: 64px auto;
+}
+
+ol {
+    list-style: none;
+}
+
+.imglista {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 20px;
+}
+
+ul {
+    font-weight: bold;
+    list-style-type: circle;
+}
+
+.itemLugares {
+    margin-bottom: 48px;
+}
+
+#historia {
+    color: #0C51A7;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#casais {
+    color: #591B98;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#familias {
+    color: #E5245E;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#orcamentos {
+    color: #E95E10;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+hr {
+    margin: 40px;
+    color: #D9D9D9;
+}
+
+#lastSection {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin: 40px;
+    font-weight: bold;
+}
